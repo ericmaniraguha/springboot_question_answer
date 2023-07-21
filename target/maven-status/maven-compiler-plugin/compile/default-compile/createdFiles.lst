@@ -1,0 +1,5 @@
+els\question\answer\dao\QuestionRepository.class
+els\question\answer\service\QuestionService.class
+els\question\model\Question.class
+els\question\answer\controller\QuestionController.class
+els\question\answer\QuestionAnswersSpringbootApplication.class
